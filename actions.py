@@ -176,6 +176,7 @@ _actions = [
     "cleanlibrary(video)",  "Clean Video Library",
     "cleanlibrary(music)", "Clean Music Library",
     "codecinfo"         , "Show codec info",
+    "PlayerDebug"       , "Show Player Debug",
     "screenshot"        , "Take screenshot",
     "reloadkeymaps"     , "Reload keymaps",
     "increasepar"       , "Increase PAR",
